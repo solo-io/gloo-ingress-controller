@@ -1,4 +1,10 @@
 
+
+<h1 align="center">
+    This repository has been consolidated into https://github.com/solo-io/gloo/.
+    See https://gloo.solo.io/installation/ingress/ for more info.
+</h1>
+
 <h1 align="center">
     <img src="Gloo-01.png" alt="Gloo" width="200" height="242">
   <br>
